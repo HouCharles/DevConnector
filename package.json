@@ -1,0 +1,24 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "Social network for developers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HouCharles/DevConnector.git"
+  },
+  "keywords": [
+    "Developers",
+    "connector"
+  ],
+  "author": "Charles Hou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HouCharles/DevConnector/issues"
+  },
+  "homepage": "https://github.com/HouCharles/DevConnector#readme"
+}
